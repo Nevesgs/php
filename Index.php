@@ -1,7 +1,6 @@
 <PHP
 
-    echo "Olá Mundo 300606 ";
+    echo "Olá Mundo! ";
 
     echo "Gustavo Neves"
-
 ?>
